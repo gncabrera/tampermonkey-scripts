@@ -7,7 +7,7 @@
 // @match        https://meet.google.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
-// @downloadURL  
+// @downloadURL  https://raw.githubusercontent.com/gncabrera/tampermonkey-scripts/main/google-meet/scrum-helper.js
 // ==/UserScript==
 
 (function() {
